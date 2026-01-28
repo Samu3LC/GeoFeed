@@ -1,4 +1,3 @@
-network;iso_country code;iso_region_code;city_name;postal_code
 45.197.192.0/24;VE;VE-A;Caracas;1010
 45.197.193.0/24;VE;VE-D;Aragua;2101
 45.197.194.0/24;VE;VE-G;Carabobo;2001
@@ -7,3 +6,4 @@ network;iso_country code;iso_region_code;city_name;postal_code
 45.197.197.0/24;VE;VE-P;Nueva Esparta;6301
 45.197.198.0/24;VE;VE-B;Anzoategui;6016
 45.197.199.0/24;VE;VE-B;Anzoategui;6016
+
