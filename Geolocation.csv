@@ -1,11 +1,9 @@
-
+ip_range,country,region,city,postal_code
 45.197.192.0/24,VE,Distrito Capital,Caracas,1010
 45.197.193.0/24,VE,Aragua,Maracay,2101
 45.197.194.0/24,VE,Carabobo,Valencia,2001
-45.197.195.0/24,VE,San Carlos,Cojedes,2201
-45.197.196.0/24,VE,San Juan de los Morros,Guarico,2301
-45.197.197.0/24,VE,Margarita,Nueva Esparta,6301
-45.197.198.0/24,VE,Lecherias,Anzoategui,6016
-45.197.199.0/24,VE,Lecherias,Anzoategui,6016
-
-
+45.197.195.0/24,VE,Cojedes,San Carlos,2201
+45.197.196.0/24,VE,Guarico,San Juan de los Morros,2301
+45.197.197.0/24,VE,Nueva Esparta,Margarita,6301
+45.197.198.0/24,VE,Anzoategui,Lecherias,6016
+45.197.199.0/24,VE,Anzoategui,Lecherias,6016
